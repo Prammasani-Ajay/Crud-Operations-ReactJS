@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "studentName": "John Doe",
+    "mobileNumber": "123-456-7890",
+    "batch": "Batch A",
+    "batchNumber": "101",
+    "emailId": "john.doe@example.com",
+    "stream": "Science",
+    "yearPassedOut": 2023,
+    "gender": "Male",
+    "feeDue": 500,
+    "dob": "2000-05-15",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Present" },
+      { "date": "2024-10-02", "status": "Absent" },
+      { "date": "2024-10-03", "status": "Present" },
+      { "date": "2024-10-04", "status": "Present" },
+      { "date": "2024-10-05", "status": "Absent" }
+    ]
+  },
+  {
+    "id": 2,
+    "studentName": "Jane Smith",
+    "mobileNumber": "098-765-4321",
+    "batch": "Batch B",
+    "batchNumber": "102",
+    "emailId": "jane.smith@example.com",
+    "stream": "Arts",
+    "yearPassedOut": 2022,
+    "gender": "Female",
+    "feeDue": 0,
+    "dob": "1999-08-22",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Present" },
+      { "date": "2024-10-02", "status": "Present" },
+      { "date": "2024-10-03", "status": "Absent" },
+      { "date": "2024-10-04", "status": "Present" },
+      { "date": "2024-10-05", "status": "Present" }
+    ]
+  },
+  {
+    "id": 3,
+    "studentName": "Alice Johnson",
+    "mobileNumber": "555-123-4567",
+    "batch": "Batch A",
+    "batchNumber": "101",
+    "emailId": "alice.johnson@example.com",
+    "stream": "Commerce",
+    "yearPassedOut": 2023,
+    "gender": "Female",
+    "feeDue": 300,
+    "dob": "2000-03-30",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Absent" },
+      { "date": "2024-10-02", "status": "Present" },
+      { "date": "2024-10-03", "status": "Present" },
+      { "date": "2024-10-04", "status": "Absent" },
+      { "date": "2024-10-05", "status": "Present" }
+    ]
+  },
+  {
+    "id": 4,
+    "studentName": "Michael Brown",
+    "mobileNumber": "111-222-3333",
+    "batch": "Batch C",
+    "batchNumber": "103",
+    "emailId": "michael.brown@example.com",
+    "stream": "Science",
+    "yearPassedOut": 2023,
+    "gender": "Male",
+    "feeDue": 200,
+    "dob": "2001-11-10",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Present" },
+      { "date": "2024-10-02", "status": "Absent" },
+      { "date": "2024-10-03", "status": "Present" },
+      { "date": "2024-10-04", "status": "Present" },
+      { "date": "2024-10-05", "status": "Absent" }
+    ]
+  },
+  {
+    "id": 5,
+    "studentName": "Emily Davis",
+    "mobileNumber": "444-555-6666",
+    "batch": "Batch B",
+    "batchNumber": "102",
+    "emailId": "emily.davis@example.com",
+    "stream": "Arts",
+    "yearPassedOut": 2022,
+    "gender": "Female",
+    "feeDue": 0,
+    "dob": "1999-12-05",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Absent" },
+      { "date": "2024-10-02", "status": "Present" },
+      { "date": "2024-10-03", "status": "Present" },
+      { "date": "2024-10-04", "status": "Absent" },
+      { "date": "2024-10-05", "status": "Present" }
+    ]
+  },
+  {
+    "id": 6,
+    "studentName": "Sophia White",
+    "mobileNumber": "333-444-5555",
+    "batch": "Batch A",
+    "batchNumber": "101",
+    "emailId": "sophia.white@example.com",
+    "stream": "Commerce",
+    "yearPassedOut": 2023,
+    "gender": "Female",
+    "feeDue": 100,
+    "dob": "2000-07-15",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Present" },
+      { "date": "2024-10-02", "status": "Present" },
+      { "date": "2024-10-03", "status": "Absent" },
+      { "date": "2024-10-04", "status": "Present" },
+      { "date": "2024-10-05", "status": "Present" }
+    ]
+  },
+  {
+    "id": 7,
+    "studentName": "Daniel Green",
+    "mobileNumber": "666-777-8888",
+    "batch": "Batch B",
+    "batchNumber": "102",
+    "emailId": "daniel.green@example.com",
+    "stream": "Science",
+    "yearPassedOut": 2022,
+    "gender": "Male",
+    "feeDue": 150,
+    "dob": "1999-01-30",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Absent" },
+      { "date": "2024-10-02", "status": "Present" },
+      { "date": "2024-10-03", "status": "Present" },
+      { "date": "2024-10-04", "status": "Present" },
+      { "date": "2024-10-05", "status": "Absent" }
+    ]
+  },
+  {
+    "id": 8,
+    "studentName": "Olivia Brown",
+    "mobileNumber": "999-888-7777",
+    "batch": "Batch C",
+    "batchNumber": "103",
+    "emailId": "olivia.brown@example.com",
+    "stream": "Arts",
+    "yearPassedOut": 2023,
+    "gender": "Female",
+    "feeDue": 250,
+    "dob": "2000-09-12",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Present" },
+      { "date": "2024-10-02", "status": "Present" },
+      { "date": "2024-10-03", "status": "Absent" },
+      { "date": "2024-10-04", "status": "Present" },
+      { "date": "2024-10-05", "status": "Present" }
+    ]
+  },
+  {
+    "id": 9,
+    "studentName": "Liam Carter",
+    "mobileNumber": "888-999-0000",
+    "batch": "Batch A",
+    "batchNumber": "101",
+    "emailId": "liam.carter@example.com",
+    "stream": "Science",
+    "yearPassedOut": 2023,
+    "gender": "Male",
+    "feeDue": 300,
+    "dob": "2000-04-25",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Present" },
+      { "date": "2024-10-02", "status": "Absent" },
+      { "date": "2024-10-03", "status": "Present" },
+      { "date": "2024-10-04", "status": "Present" },
+      { "date": "2024-10-05", "status": "Absent" }
+    ]
+  },
+  {
+    "id": 10,
+    "studentName": "Emma Wilson",
+    "mobileNumber": "777-666-5555",
+    "batch": "Batch B",
+    "batchNumber": "102",
+    "emailId": "emma.wilson@example.com",
+    "stream": "Commerce",
+    "yearPassedOut": 2022,
+    "gender": "Female",
+    "feeDue": 0,
+    "dob": "1998-03-14",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Absent" },
+      { "date": "2024-10-02", "status": "Present" },
+      { "date": "2024-10-03", "status": "Present" },
+      { "date": "2024-10-04", "status": "Absent" },
+      { "date": "2024-10-05", "status": "Present" }
+    ]
+  },
+  {
+    "id": 11,
+    "studentName": "James Miller",
+    "mobileNumber": "444-333-2222",
+    "batch": "Batch C",
+    "batchNumber": "103",
+    "emailId": "james.miller@example.com",
+    "stream": "Arts",
+    "yearPassedOut": 2023,
+    "gender": "Male",
+    "feeDue": 200,
+    "dob": "2000-10-20",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Present" },
+      { "date": "2024-10-02", "status": "Absent" },
+      { "date": "2024-10-03", "status": "Present" },
+      { "date": "2024-10-04", "status": "Present" },
+      { "date": "2024-10-05", "status": "Absent" }
+    ]
+  },
+  {
+    "id": 12,
+    "studentName": "Ava Thomas",
+    "mobileNumber": "111-000-9999",
+    "batch": "Batch A",
+    "batchNumber": "101",
+    "emailId": "ava.thomas@example.com",
+    "stream": "Science",
+    "yearPassedOut": 2023,
+    "gender": "Female",
+    "feeDue": 100,
+    "dob": "2000-06-16",
+    "attendance": [
+      { "date": "2024-10-01", "status": "Present" },
+      { "date": "2024-10-02", "status": "Present" },
+      { "date": "2024-10-03", "status": "Present" },
+      { "date": "2024-10-04", "status": "Absent" },
+      { "date": "2024-10-05", "status": "Present" }
+    ]
+  }
+]
